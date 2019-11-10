@@ -14,7 +14,7 @@
 	- CSS
 
 ### Contributions
-You can fork the repository and send pull request or reach out easily to me via twitter => [Kater Akeren](https://twitter.com/katerakeren) or email me at [kater@lunetsoft.com]
+You can fork the repository and send pull request or reach out easily to me via twitter => [Kater Akeren](https://twitter.com/katerakeren)
 
 ### Vulnerabilities
 
